@@ -7,9 +7,17 @@
 
 void *reader_thread(void *arg)
 {
+  while(1)
+  {
+  }
+  return NULL;
 }
 void *writer_thread(void *arg)
 {
+  while(1)
+  {
+  }
+  return NULL;
 }
 
 #define M 10
